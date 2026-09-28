@@ -34,7 +34,7 @@ Projeto da disciplina **Programação Mobile 1** — entrega parcial (Android Vi
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/renesantanna13/OS-Eletronicos.git
+   git clone https://github.com/renesantanna13/OS-eletronicos.git
    ```
 2. Abra a pasta no **Android Studio** (File > Open) e espere o Gradle sincronizar
 3. Selecione um emulador ou um celular com Android 13 (API 33) ou superior
