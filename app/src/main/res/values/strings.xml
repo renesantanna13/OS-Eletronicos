@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">OS Tracker</string>
+    <string name="title_activity_order_detail">Detalhe da OS</string>
+
+    <!-- Home -->
+    <string name="home_subtitle">Ordens de serviço da assistência</string>
+    <string name="home_summary">%1$d em andamento, %2$d prontas para retirada</string>
+    <string name="order_number">OS #%1$d</string>
+    <string name="device_title">%1$s %2$s</string>
+    <string name="steps_count">%1$d de %2$d etapas</string>
+    <string name="device_icon_description">Ícone do tipo de aparelho</string>
+
+    <!-- Categorias -->
+    <string name="category_smartphone">Smartphone</string>
+    <string name="category_notebook">Notebook</string>
+    <string name="category_videogame">Videogame</string>
+    <string name="category_tv">TV</string>
+
+    <!-- Status -->
+    <string name="status_received">Recebido</string>
+    <string name="status_in_progress">Em reparo</string>
+    <string name="status_ready">Pronto</string>
+    <string name="urgent">Urgente</string>
+
+    <!-- Detalhe -->
+    <string name="order_not_found">Ordem de serviço não encontrada</string>
+    <string name="back_button">Voltar</string>
+    <string name="reported_issue">Problema relatado</string>
+    <string name="diagnosis">Diagnóstico</string>
+    <string name="diagnosis_pending">Aguardando avaliação do técnico.</string>
+    <string name="repair_progress">Andamento do reparo</string>
+    <string name="next_step">Próxima etapa: %1$s</string>
+    <string name="repair_finished">Reparo concluído! Aparelho pronto para retirada.</string>
+    <string name="percentage">%1$d%%</string>
+    <string name="previous_step_button">Desfazer última etapa</string>
+    <string name="next_step_button">Concluir próxima etapa</string>
+    <string name="step_done">Etapa concluída</string>
+    <string name="step_pending">Etapa pendente</string>
+    <string name="details">Detalhes</string>
+    <string name="customer">Cliente</string>
+    <string name="phone">Telefone</string>
+    <string name="model">Modelo</string>
+    <string name="technician">Técnico</string>
+    <string name="received_at">Entrada</string>
+    <string name="estimated_delivery">Previsão de entrega</string>
+    <string name="estimated_cost">Orçamento</string>
+    <string name="not_informed">Não informado</string>
+    <string name="not_assigned">Não atribuído</string>
+    <string name="no_estimate">Sem previsão</string>
+    <string name="to_be_defined">A definir</string>
+    <string name="call_customer">Ligar para o cliente</string>
+</resources>
